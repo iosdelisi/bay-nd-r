@@ -1,0 +1,9 @@
+Origin: iOsDelisi Repo
+Label: iOsDelisi Repo
+Suite: stable
+Version: 1.0
+Codename: kalora
+Architectures: iphoneos-arm
+Components: main
+Description: --- Program, Eklenti, Tema, Sistem --- www.iosdelisi.com
+Icon: http://repo.iosdelisi.com/CydiaIcon.png
